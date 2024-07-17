@@ -1,0 +1,174 @@
+body{
+    background: lightslategray;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+}
+
+h1{
+background: white;
+display: flex;
+justify-content: center;
+align-self: center;
+}
+
+.firstPhoto {
+        background: white;
+        width: 80%; 
+        max-width: 400px; 
+        height: 450px; 
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+        margin: 20px auto;
+        padding: 10px;
+
+}
+
+.firstPhotoHeader{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid gray;
+
+}
+
+
+.firstPhotoHeader h1{
+    text-align: left;
+    margin: 0;
+
+}
+
+.firstPhotoHeader p{
+    text-align: right;
+    margin: 0;
+}
+
+.firstPhotoFooter{
+    border-top: 1px solid gray;
+}
+
+.secondPhoto {
+    background: white;
+    width: 80%; 
+    max-width: 400px; 
+    height: 450px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin:20px auto;
+    padding: 10px;
+
+}
+
+.secondPhotoHeader{
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid gray;
+
+}
+
+.secondPhotoHeader h1{
+text-align: left;
+margin: 0;
+
+}
+
+.secondPhotoHeader p{
+text-align: right;
+margin: 0;
+}
+
+.secondPhotoFooter{
+    border-top: 1px solid gray;
+}
+
+.thirdPhoto {
+    background: white;
+    width: 80%; 
+    max-width: 400px; 
+    height: 450px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin:20px auto;
+    padding: 10px;
+
+}
+
+.thirdPhotoHeader{
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid gray;
+
+}
+
+.thirdPhotoHeader h1{
+text-align: left;
+margin: 0;
+
+}
+
+.thirdPhotoHeader p{
+text-align: right;
+margin: 0;
+}
+
+.thirdPhotoFooter{
+    border-top: 1px solid gray;
+}
+
+.fourthPhoto {
+    background: white;
+    width: 80%; 
+    max-width: 400px; 
+    height: 450px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    margin:20px auto;
+    padding: 10px;
+
+}
+
+.fourthPhotoHeader{
+width: 100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid gray;
+
+}
+
+.fourthPhotoHeader h1{
+text-align: left;
+margin: 0;
+
+}
+
+.fourthPhotoHeader p{
+text-align: right;
+margin: 0;
+}
+
+.fourthPhotoFooter{
+    border-top: 1px solid gray;
+}
